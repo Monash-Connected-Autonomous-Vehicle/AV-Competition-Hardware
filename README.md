@@ -12,11 +12,11 @@ Example (Testing Rig):
 
 ## Folder Structure Example
 - Mechanical
-      - AV_Comp_Mech_1_1_Enviroment
-           - AV_Comp_Mech_1_1_1_Enviroment_Top_Assembly
-            - AV_Comp_Mech_1_1_2_Road
+     - AV_Comp_Mech_1_1_Environment
+          - AV_Comp_Mech_1_1_1_Environment_Top_Assembly
+          - AV_Comp_Mech_1_1_2_Road
      - AV_Comp_Mech_1_2_Chassis
-            - AV_Comp_Mech_1_2_1_Chassis_Top_Assembly
-            - AV_Comp_Mech_1_2_2_Chassis_Doo
+          - AV_Comp_Mech_1_2_1_Chassis_Top_Assembly
+          - AV_Comp_Mech_1_2_2_Chassis_Doo
 - Electrical
-    - AV_Comp_Elec_1_1_Block_out
+     - AV_Comp_Elec_1_1_Block_out
